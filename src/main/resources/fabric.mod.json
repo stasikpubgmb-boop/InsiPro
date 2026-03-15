@@ -17,7 +17,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "code.essence.Essence"
+      "com.insipro.Essence"
     ]
   },
   "mixins": [

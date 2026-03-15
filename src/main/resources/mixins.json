@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "code.essence.mixins",
+  "package": "com.insipro.mixins",
   "refmap": "essence-refmap.json",
   "compatibilityLevel": "JAVA_21",
   "mixins": [

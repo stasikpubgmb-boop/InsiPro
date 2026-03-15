@@ -1,6 +1,0 @@
-package code.essence.utils.client.managers.event.impl;
-
-
-
-public class EventUpdate extends EventLayer {
-}
